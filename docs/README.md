@@ -4,6 +4,12 @@
 
 This is a list of all hostnames that are required to be redirected for running a game content cache. This list will change frequently so this is designed to be a definitive list.
 
+
+## Additions
+
+- Amalgamated list creation
+- Generation of a custom file for DNSMASQ (Pihole)
+
 ## Usage
 
 You can use this list one of two ways:
