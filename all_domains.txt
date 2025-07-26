@@ -1,7 +1,4 @@
-#
-# Daybreak games 
 # Do NOT cache manifest.patch.daybreakgames.com
-#PS2
 *.cdn.blizzard.com
 *.cdn.ubi.com
 *.dl.delivery.mp.microsoft.com
@@ -23,8 +20,6 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
-apac-sg.nexusbytes.ren-x.com
-apac-tyo.nexusbytes.ren-x.com
 assetcdn.101.arenanetworks.com
 assetcdn.102.arenanetworks.com
 assetcdn.103.arenanetworks.com
@@ -35,7 +30,8 @@ blizzard.vo.llnwd.net
 blzddist1-a.akamaihd.net
 blzddist2-a.akamaihd.net
 blzddist3-a.akamaihd.net
-ccs.cdn.wup.shop.nintendo.net
+canary.lancache.net
+canary.uklans.net
 ccs.cdn.wup.shop.nintendo.net.edgesuite.net
 cdn-11.eft-store.com
 cdn-eu1.homecomingservers.com
@@ -81,9 +77,6 @@ ecs-lp1.hac.shop.nintendo.net
 edge.blizzard.top.comcast.net
 egdownload.fastly-edge.com
 epicgames-download1.akamaized.net
-eu-lux.buyvm.ren-x.com
-eu-nl.nexusbytes.ren-x.com
-eu-uk.nexusbytes.ren-x.com
 fastly-download.epicgames.com
 filedelivery.nexusmods.com
 geisha-wup.cdn.nintendo.net
@@ -99,9 +92,14 @@ l3cdn.riotgames.com
 lancache.steamcontent.com
 level3.blizzard.com
 level3.nwhttppatch.crypticstudios.com
+litmus.lancache.net
+litmus.uklans.net
 live.patcher.elderscrollsonline.com
 lvlt.cdn.ea.com
 nydus.battle.net
+officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
+origin-a.akamaihd.net
 patch-dl.ffxiv.com
 patchcdn.pathofexile.com
 patches.rockstargames.com
@@ -113,22 +111,12 @@ psnobj.prod.dl.playstation.net
 receive-lp1.dg.srv.nintendo.net
 riotgamespatcher-a.akamaihd.net
 riotgamespatcher-a.akamaihd.net.edgesuite.net
-rxp-de1.ts3-server.ch
 sgst.prod.dl.playstation.net
 theia.dl.playstation.net
 tmdb.np.dl.playstation.net
+trigger.lancache.net
+trigger.uklans.net
 uef.np.dl.playstation.net
-us-chi.racknerd.ren-x.comorigin-a.akamaihd.net
-us-chi2.cncirc.net
-us-dal.boomerhost.ren-x.com
-us-la.cncfps.com
-us-lv.buyvm.ren-x.com
-us-lv2.cncirc.net
-us-mia.buyvm.ren-x.com
-us-nj.shockhosting.ctgamehosts.uk
-us-ny.buyvm.ren-x.com
-us-phx.speedy.ren-x.com
-us-va.ovh.ctgamehosts.uk
 vulcan.dl.playstation.net
 wg.gcdn.co
 wgus-wotasia.wargaming.net
